@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  display: block;
+  width: 100px;
+  height: 20px;
+  overflow: hidden;
+
+  background-color: #990044;
+}
